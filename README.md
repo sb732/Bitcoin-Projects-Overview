@@ -1,18 +1,14 @@
-# <i>Bitcoin Projects.</i>
+# <i>Bitcoin Projects</i>
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc).
 (※ Nowadays I focus on Rune protocol and learned. Already know how to Mint & transfer Rune tokens. Please send email if you are interested)
 
 <h3><u><strong><i>Bitcoin Defi</i></strong></u> &nbsp;</h3>
 <hr />
-ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Corridor Finance API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet.
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/bb277617-0124-47cf-84ad-33ba16caa2f8">
+ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Corridor Finance API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet.
+- <a href="https://arcusbtc.com/">ArcusLab</a>
 
-- Live: <a href="https://arcusbtc.com/">ArcusLab</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/ArcusBTC/arcus-app">ArcusLab-Backend</a>
-  - frontend repo: <a href="https://github.com/ArcusBTC/ArcusLab-FE">ArcusLab-Frontend</a>
-  
 <h3><u><strong><i>Ordinal Swap MarketPlace</i></strong></u> &nbsp;</h3>
 <hr />
 Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.

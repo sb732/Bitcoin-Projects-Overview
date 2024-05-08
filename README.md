@@ -11,52 +11,24 @@ ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or B
 
 <h3><u><strong><i>Ordinal Swap MarketPlace</i></strong></u> &nbsp;</h3>
 <hr />
-Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/d4941f09-ee40-4e29-85cf-e8978a6a2705">
-
+Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.
 - Live: <a href="https://munchswap.xyz/">MunchSwap</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/muncheruniverse/swap-apis">MunchSwap-Backend</a>
-  - frontend repo: <a href="https://github.com/muncheruniverse/munchswap/">MunchSwap-Frontend</a>
 
 <h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;</h3>
 <hr />
-
-This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/453817f2-3920-4626-9c53-1041e67f15b5">
-
-BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
+This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address. BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
 - Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/victoryfox19931116/BRC20-withdraw-Backend">BRC20-Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
 
 <h3><u><strong><i>Playzelo</i></strong></u> &nbsp;(Bitcoin, Etheruem, Binance, Solana)</h3>
 <hr />
-
-This is a game project deployed on blockchain networks. Users can play games use crypto
-
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
-
-
-Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
-
+This is a game project deployed on blockchain networks. Users can play games use crypto. Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
 - Live: <a href="https://playzelo.xyz/">Playzelo</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/backend">Playzelo Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/frontend">Playzelo-Frontend</a>
-  - admin repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/admin">Playzelo-Admin</a>
 
 <h3><u><strong><i>UnderWorld Lending</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
-
-This is a Ordinal Lending project on Bitcoin network. Users can borrow money use their Bitcoin Ordinals or swap their Ordinals to BTC.
-
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/335f566b-a90d-4997-b2fa-bd318b484830">
-
-UnderWorldLending Platform is an BTC Lending Platform so users can borrow BTC use their BTC Ordinals or Swap Ordinals with BTC. The main purpose of this platform is to facilitate liquidity for borrowers who urgently need it or require it at a specific time. Additionally, we aim to help lenders earn money through this process. Everything is 100% secure, and it will be done through the BTC blockchain. Everything will be transparent. Borrowers won't have to send your ordinal anywhere during borrow money period. With the help of Deep Lake, DLCs (Discreet Log Contracts) and PSBT (Partially Signed Bitcoin Transactions) for Ordinals.
-
+This is a Ordinal Lending project on Bitcoin network. Users can borrow money use their Bitcoin Ordinals or swap their Ordinals to BTC. UnderWorldLending Platform is an BTC Lending Platform so users can borrow BTC use their BTC Ordinals or Swap Ordinals with BTC. The main purpose of this platform is to facilitate liquidity for borrowers who urgently need it or require it at a specific time. Additionally, we aim to help lenders earn money through this process. Everything is 100% secure, and it will be done through the BTC blockchain. Everything will be transparent. Borrowers won't have to send your ordinal anywhere during borrow money period. With the help of Deep Lake, DLCs (Discreet Log Contracts) and PSBT (Partially Signed Bitcoin Transactions) for Ordinals.
 - Live: <a href="https://degens.fi/">UnderWorldLending</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/victoryfox19931116/BTC-NFT-Lending-BE">UnderWorldLending-Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/BTC-NFT-Lending">UnderWorldLending-Frontend</a>

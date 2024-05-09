@@ -11,7 +11,7 @@ ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or B
 
 <h3><u><strong><i>Ordinal MarketPlace</i></strong></u> &nbsp;</h3>
 <hr />
-<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/d4941f09-ee40-4e29-85cf-e8978a6a2705">
+<img align="right" width="300px" src="./assets/325938118-b64f50c4-32f7-45ed-83e7-428661fca89d.png">
 Bitcoin Burials is a 10k Ordinals collection of lovingly crafted headstones in a pixel art style each engraved with the BTC logo and a date tied to an Obituary predicting Bitcoin's death as selected from an historic archive.
 Buy a Bitcoin Burial on Magic eden, OKX, Gamma and Ordinal.market. Built Back-end for Rune-mining, selling and transferring.
 - Live: <a href="https://bitcoinburials.com/runes/mine">Bitcoin Burial</a>

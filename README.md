@@ -9,11 +9,12 @@ As you can see here, I have built several Bitcoin projects including Launchpad, 
 ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Corridor Finance API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet.
 - <a href="https://arcusbtc.com/">ArcusLab</a>
 
-<h3><u><strong><i>Ordinal Swap MarketPlace</i></strong></u> &nbsp;</h3>
+<h3><u><strong><i>Ordinal MarketPlace</i></strong></u> &nbsp;</h3>
 <hr />
 <img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/d4941f09-ee40-4e29-85cf-e8978a6a2705">
-Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.
-- Live: <a href="https://munchswap.xyz/">MunchSwap</a>
+Bitcoin Burials is a 10k Ordinals collection of lovingly crafted headstones in a pixel art style each engraved with the BTC logo and a date tied to an Obituary predicting Bitcoin's death as selected from an historic archive.
+Buy a Bitcoin Burial on Magic eden, OKX, Gamma and Ordinal.market. Built Back-end for Rune-mining, selling and transferring.
+- Live: <a href="https://bitcoinburials.com/runes/mine">Bitcoin Burial</a>
 
 <h3><u><strong><i>Ordinal Lending</i></strong></u> &nbsp;</h3>
 <hr />
@@ -23,12 +24,12 @@ UnderWorld is a Ordinal Lending project on Bitcoin network. Users can borrow mon
 
 <h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;</h3>
 <hr />
-<img align="left" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/453817f2-3920-4626-9c53-1041e67f15b5">
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/453817f2-3920-4626-9c53-1041e67f15b5">
 Bitmap is a BRC20 token Airdrop project on Bitcoin network. Ordinal owners can airdrop BRC20 tokens to taproot address. BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
 - Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
 
 <h3><u><strong><i>Gambling</i></strong></u> &nbsp;</h3>
 <hr />
-<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
+<img align="left" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
 Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
 - Live: <a href="https://playzelo.xyz/">Playzelo</a>
